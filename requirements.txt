@@ -1,0 +1,13 @@
+torch
+timm
+albumentations
+opencv-python
+nibabel
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+monai
+scipy
