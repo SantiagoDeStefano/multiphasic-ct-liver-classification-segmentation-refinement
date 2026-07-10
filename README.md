@@ -162,7 +162,7 @@ By default this uses all five folds. Edit the `folds` argument in the `__main__`
 
 If you found our work useful, please cite us. For the HCC-Net classification method and the HCC-RefineNet segmentation method, please cite:
 
-Khoi Nguyen Pham, Ngoc Thao Vy Pham, Thi Kim Phung Nguyen. "Deep Learning for Multiphasic CT-Based Liver Cancer Subtype Classification and Segmentation Refinement." MAPR, 2026. doi: xxx.
+Khoi Nguyen Pham, Ngoc Thao Vy Tran, Thi Kim Phung Nguyen. "Deep Learning for Multiphasic CT-Based Liver Cancer Subtype Classification and Segmentation Refinement." MAPR, 2026. doi: xxx.
 
 ```bibtex
 @inproceedings{pham2026liverct,
