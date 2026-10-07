@@ -165,11 +165,14 @@ If you found our work useful, please cite us. For the HCC-Net classification met
 Khoi Nguyen Pham, Ngoc Thao Vy Tran, Thi Kim Phung Nguyen. "Deep Learning for Multiphasic CT-Based Liver Cancer Subtype Classification and Segmentation Refinement." MAPR, 2026. doi: xxx.
 
 ```bibtex
-@inproceedings{pham2026liverct,
-  title     = {Deep Learning for Multiphasic CT-Based Liver Cancer Subtype Classification and Segmentation Refinement},
-  author    = {Pham, Khoi Nguyen and Tran, Ngoc Thao Vy and Nguyen, Thi Kim Phung},
-  booktitle = {Proceedings of the International Conference on Multimedia Analysis and Pattern Recognition (MAPR)},
-  year      = {2026},
-  note      = {to appear}
-}
+@INPROCEEDINGS{11685746,
+  author={Pham, Khoi Nguyen and Tran, Ngoc Thao Vy and Kim, Phung Nguyen Thi},
+  booktitle={2026 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)}, 
+  title={Deep Learning for Multiphasic CT-Based Liver Cancer Subtype Classification and Segmentation Refinement}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={322-327},
+  keywords={Tumors;Modeling;Liver cancer;Training;Printing;Dies;Labeling;Liver;Timing;Cancer;Liver cancer;CT imaging;Classification;Segmentation;EfficientNet;U-Net},
+  doi={10.1109/MAPR72750.2026.11685746}}
 ```
